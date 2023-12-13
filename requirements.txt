@@ -1,0 +1,9 @@
+os
+requests
+urllib3==1.26.15
+boto3
+Flask
+opencv-contrib-python==4.8.1.78
+opencv-python==4.8.1.78
+numpy
+Pillow

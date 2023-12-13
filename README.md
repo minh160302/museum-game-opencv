@@ -1,0 +1,1 @@
+# OpenCV server for museum-game

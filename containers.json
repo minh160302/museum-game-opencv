@@ -1,0 +1,8 @@
+{
+  "flask": {
+      "image": ":flask-app-service.my-flask-app-amd64.6",
+      "ports": {
+          "3000": "HTTP"
+      }
+  }
+}
